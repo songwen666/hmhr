@@ -32,6 +32,11 @@ npm install
 
 # develop
 npm run dev
+这是黑马人力资源项目 
+正常情况下 使用直接 cnpm i
+这里如果报错运行npm run dev可能还会有一个问题就是core.js模块报错，这个手动
+
+npm install core-js -s就可以解决
 ```
 
 This will automatically open http://localhost:9528
